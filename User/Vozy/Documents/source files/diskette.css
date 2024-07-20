@@ -380,7 +380,7 @@ input[type='checkbox']:checked {
     margin: 60px 40px;
 }
 
-[class*="contentColumnDefault_"] {
+[class*="contentColumnDefault_"]:hover {
     border: var(--bordersH) 1px solid;
 }
 
